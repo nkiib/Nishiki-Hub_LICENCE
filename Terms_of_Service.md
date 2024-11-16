@@ -1,6 +1,9 @@
-この利用規約は、Nishiki-Hub（以下「当サイト」といいます）の内容を引用や転載などで利用する読者に対する利用規約、及び広告執筆に対する利用規約です。内容に基づく免責事項は<a href="https://nishikiout.hatenablog.com/entry/disclaimer">こちら</a>を御覧ください。当ページの投稿日時が2016年1月1日になっているのは、ブログの仕様の問題であり、最終更新日時については、当ページの最後の部分をご参照ください。
+この利用規約は、Nishiki-Hub（以下「当サイト」といいます）の内容を引用や転載などで利用する読者に対する利用規約、及び広告執筆に対する利用規約です。内容に基づく免責事項は<a href="https://nishikiout.hatenablog.com/entry/disclaimer">こちら</a>を御覧ください。
 
 <!-- more -->
+
+* 2024年11月16日修正（固定ページに移動）
+* 2023年5月15日更新
 
 # 利用規約（引用・転載）
 
@@ -48,6 +51,4 @@
 ## 代表 nishikiout
 
 * メールアドレス：nishiki-hub☆nishikiout.com（☆を＠に変えてください）
-* [Twitter @nishikiout](https://twitter.com/nishikiout)
-
-最終更新：2023年5月15日
+* [X @nishikiout](https://x.com/nishikiout)
